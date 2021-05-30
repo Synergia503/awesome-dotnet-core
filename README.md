@@ -703,7 +703,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [xUnit.net](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 
 ### Tools
-* [Esquio] (https://github.com/Xabaril/Esquio) - Feature Toggle Library
+* [Esquio](https://github.com/Xabaril/Esquio) - Feature Toggle Library
 * [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
 * [docfx](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects [http://dotnet.github.io/docfx](http://dotnet.github.io/docfx)
 * [dotnetfiddle](https://dotnetfiddle.net) - .NET sandbox for developers to quickly try out code and share code snippets.
