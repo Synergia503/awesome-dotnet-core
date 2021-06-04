@@ -35,6 +35,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Distributed Computing](#distributed-computing)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Exceptions](#exceptions)
+  * [File System](#file-system)
   * [Functional Programming](#functional-programming)
   * [Graphics](#graphics)
   * [GUI](#gui)
@@ -322,8 +323,8 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [yessql](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
 
 ### Docker
-[FluentDocker](https://github.com/mariotoffia/FluentDocker)
-[TestContainers](https://github.com/HofmeisterAn/dotnet-testcontainers)
+* [FluentDocker](https://github.com/mariotoffia/FluentDocker)
+* [TestContainers](https://github.com/HofmeisterAn/dotnet-testcontainers)
 
 ### Database Drivers
 * [cassandra-csharp-driver](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
@@ -380,6 +381,9 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 * [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - GlobalExceptionHandlerDotNet allows you to configure exception handling as a convention with your ASP.NET Core application pipeline as opposed to explicitly handling them within each controller action.
 
+### File System
+* [Atma Filesystem](https://github.com/grzesiek-galezowski/atma-filesystem)
+* 
 ### Functional Programming
 * [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
 * [DynamicData](https://github.com/RolandPheasant/DynamicData) - Reactive collections based on Rx.NET.
