@@ -26,6 +26,7 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
   * [Compression](#compression)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Cryptography](#cryptography)
+  * [CLI](#cli)
   * [Database](#database)
   * [Docker](#docker)
   * [Database Drivers](#database-drivers)
@@ -307,6 +308,10 @@ Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 * [multiformats](https://github.com/multiformats/cs-multihash) - A general purpose hashing library, but a library to encode/decode Multihashes which is a "container" describing what hash algorithm the digest is calculated with.
 * [nsec](https://github.com/ektrah/nsec) - NSec is a new cryptographic library for .NET Core based on libsodium.
+
+### CLI
+* [CliWrap](https://github.com/Tyrrrz/CliWrap)
+* [MedallionShell](https://github.com/madelson/MedallionShell#medallionshell)
 
 ### Database
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
